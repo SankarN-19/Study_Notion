@@ -67,7 +67,7 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-![Architecture]([images/architecture.png](https://github.com/gourangpathak/StudyNotion-An-Online-Education-Platform/raw/master/images/architecture.png))
+![Architecture]([[images/architecture.png](https://github.com/gourangpathak/StudyNotion-An-Online-Education-Platform/raw/master/images/architecture.png)](https://github.com/gourangpathak/StudyNotion-An-Online-Education-Platform/raw/master/images/architecture.png))
 
 ## Front End
 
